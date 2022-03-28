@@ -1,0 +1,164 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4e2"
+    },
+    "DisplayNameId": 137438956809,
+    "LocalizedName": {
+        "enMale": "Jaesa's Ship",
+        "frMale": "Vaisseau de Jaesa",
+        "frFemale": "Vaisseau de Jaesa",
+        "deMale": "Jaesas Schiff",
+        "deFemale": "Jaesas Schiff"
+    },
+    "AreaId": 4611686045100172646,
+    "ZoneName": "warplanworking_chat",
+    "MapPages": [
+        {
+            "Id": 3337,
+            "Guid": 137438956809,
+            "SId": -1920750383054715621,
+            "MapNameB62Id": "6mNK0x4",
+            "MapName": "map_war_planworking_main",
+            "Name": "Jaesa's Ship",
+            "LocalizedName": {
+                "enMale": "Jaesa's Ship",
+                "frMale": "Vaisseau de Jaesa",
+                "frFemale": "Vaisseau de Jaesa",
+                "deMale": "Jaesas Schiff",
+                "deFemale": "Jaesas Schiff"
+            },
+            "ParentId": 0,
+            "MinX": -4.7798357,
+            "MinY": -0.549395,
+            "MinZ": -9.870434,
+            "MaxX": 11.155906,
+            "MaxY": 0.781185,
+            "MaxZ": 6.065308,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 337.89795,
+            "MiniMapVolume": 1362.5139,
+            "MiniMapMinX": -12.811964,
+            "MiniMapMinZ": -17.902563,
+            "MiniMapMaxX": 19.188036,
+            "MiniMapMaxZ": 14.097437,
+            "ImagePath": "\/resources\/world\/areas\/4611686045100172646\/map_war_planworking_main_r.dds",
+            "ExplorationId": 1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "EXPLORABLE"
+        }
+    ],
+    "MapNotes": {
+        "4611686060237131203": {
+            "PositionX": 9.8493,
+            "PositionY": -0,
+            "PositionZ": -3.1412,
+            "Rotation": 90,
+            "MapTags": {
+                "map_war_planworking_main": true
+            },
+            "ParentMapTag": "map_war_planworking_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.sith_warrior.chapter_1.the_plan_is_working.investigate_the_ship",
+            "MPNB62Id": "PyzMgHe",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686082974544592": {
+            "PositionX": 0.011,
+            "PositionY": 0.0137,
+            "PositionZ": -0.9951,
+            "Rotation": 0,
+            "MapTags": {
+                "map_war_planworking_main": true
+            },
+            "ParentMapTag": "map_war_planworking_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.sith_warrior.chapter_1.the_plan_is_working.instance_jaesas_ship",
+            "MPNB62Id": "iV4QiH4",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686238880532313": {
+            "PositionX": -0.0056,
+            "PositionY": 0.0203,
+            "PositionZ": 1.5535,
+            "Rotation": -179.997,
+            "MapTags": {
+                "map_war_planworking_main": true
+            },
+            "ParentMapTag": "map_war_planworking_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.links.shared.to_ship",
+            "MPNB62Id": "RYsMsTD",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "Id": "4611686045100172646",
+    "Base62Id": "PcNIDG6",
+    "Name": "Jaesa's Ship",
+    "B62References": [],
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "1723810406",
+    "removed_in": "",
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "1.4.0",
+        "3.3.2",
+        "6.3.0a"
+    ],
+    "AreaDat": {
+        "AreaId": "4611686045100172646",
+        "AreaGuid": "4611686045100172648",
+        "AssetDefs": {
+            "4611686048108470030": "\\spn\\location\\open_worlds\\class\\sith_warrior\\chapter_1\\the_plan_is_working\\ship_door.spn_p",
+            "4611686048108470051": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686060237131202": "\\server\\mpn\\location\\open_worlds\\class\\sith_warrior\\chapter_1\\the_plan_is_working\\investigate_the_ship.mpn",
+            "4611686065135031206": "\\spn\\location\\open_worlds\\generic\\neutral\\dynamic_neu_spaceport_bulkhead_basic.spn_p",
+            "4611686082090475791": "\\spn\\location\\open_worlds\\medcenter\\chapter_1\\sith_warrior\\med_open_worlds_ch1_sith_warrior_the_plan_is_working_hangar_bay.spn_c",
+            "4611686082974544591": "\\server\\mpn\\location\\open_worlds\\class\\sith_warrior\\chapter_1\\the_plan_is_working\\instance_jaesas_ship.mpn",
+            "4611686103198870021": "\\enc\\location\\open_worlds\\class\\sith_warrior\\chapter_1\\the_plan_is_working\\enc_uldin.enc",
+            "4611686103198870024": "\\enc\\location\\open_worlds\\class\\sith_warrior\\chapter_1\\the_plan_is_working\\enc_zylixx.enc",
+            "4611686103198870026": "\\a:enc.location.open_worlds.class.sith_warrior.chapter_1.the_plan_is_working.enc_zylixx.spn_c",
+            "4611686103198870028": "\\a:enc.location.open_worlds.class.sith_warrior.chapter_1.the_plan_is_working.enc_uldin.spn_c",
+            "4611686238880532312": "\\server\\mpn\\location\\open_worlds\\ambient\\links\\shared\\to_ship.mpn",
+            "4611686244634920000": "\\spn\\location\\open_worlds\\medcenter\\neutral\\medcenter_droid_neutral_31.spn_c"
+        },
+        "B62RoomIds": {
+            "_everywhere_": "0MPbqZ5",
+            "room_01": "0cPbqZ5",
+            "airlock_01": "0sPbqZ5",
+            "hallway_01": "16PbqZ5",
+            "SPACE": "1MPbqZ5",
+            "skyscene": "1cPbqZ5"
+        },
+        "B62References": [],
+        "Base62Id": "PcNIDG6",
+        "Id": "4611686045100172646"
+    },
+    "ExplorationType": "HIDDEN"
+}

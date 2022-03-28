@@ -1,0 +1,170 @@
+{
+    "_id": {
+        "$oid": "5fb42b4733180000cb08871e"
+    },
+    "DisplayNameId": 137438953518,
+    "LocalizedName": {
+        "enMale": "Quesh Huttball Pit",
+        "frMale": "Fosse de huttball de Quesh",
+        "frFemale": "Fosse de huttball de Quesh",
+        "deMale": "Quesh-Huttenball-Grube",
+        "deFemale": "Quesh-Huttenball-Grube"
+    },
+    "AreaId": 4611686349514817006,
+    "ZoneName": "pvp_warzone_quesh_chat",
+    "MapPages": [
+        {
+            "Id": 40031,
+            "Guid": 137438993503,
+            "SId": 2085850714855905034,
+            "MapNameB62Id": "2XTxWIC",
+            "MapName": "world_map",
+            "Name": "Quesh Huttball Pit",
+            "LocalizedName": {
+                "enMale": "Quesh Huttball Pit",
+                "frMale": "Fosse Huttball de Quesh",
+                "frFemale": "Fosse Huttball de Quesh",
+                "deMale": "Quesh-Huttenball-Grube",
+                "deFemale": "Quesh-Huttenball-Grube"
+            },
+            "ParentId": 0,
+            "MinX": -7.3134007,
+            "MinY": -2.327345,
+            "MinZ": -7.3941007,
+            "MaxX": 7.4706006,
+            "MaxY": 4.928945,
+            "MaxZ": 7.3899007,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 1585.9833,
+            "MiniMapVolume": 7430.441,
+            "MiniMapMinX": -15.9214,
+            "MiniMapMinZ": -16.0021,
+            "MiniMapMaxX": 16.0786,
+            "MiniMapMaxZ": 15.9979,
+            "ImagePath": "\/resources\/world\/areas\/4611686349514817006\/world_map_r.dds",
+            "ExplorationId": -1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "HIDDEN"
+        }
+    ],
+    "MapNotes": {
+        "4611686349571277012": {
+            "PositionX": 0.0263,
+            "PositionY": 3.274,
+            "PositionZ": -5.7369,
+            "Rotation": 180,
+            "MapTags": {
+                "map_quesharenaworldmap": true
+            },
+            "ParentMapTag": "map_quesharenaworldmap",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.pvp.warzone.teamb_spawn",
+            "MPNB62Id": "UVLT8S3",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686349571277014": {
+            "PositionX": 0.0048,
+            "PositionY": 3.274,
+            "PositionZ": 5.7471,
+            "Rotation": 0,
+            "MapTags": {
+                "map_quesharenaworldmap": true
+            },
+            "ParentMapTag": "map_quesharenaworldmap",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.pvp.warzone.teama_spawn",
+            "MPNB62Id": "YUXrJp5",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "Id": "4611686349514817006",
+    "Base62Id": "xZrP5aD",
+    "Name": "Quesh Huttball Pit",
+    "B62References": [],
+    "first_seen": "2.7.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "273831970",
+    "removed_in": "",
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "2.7.0",
+        "3.3.1",
+        "3.3.2",
+        "6.0.0",
+        "6.3.0a"
+    ],
+    "AreaDat": {
+        "AreaId": "4611686349514817006",
+        "AreaGuid": "4611686299620324001",
+        "AssetDefs": {
+            "4611686300094774003": "\\spn\\location\\pvp\\warzone\\quesh\\purple_arrows.spn_p",
+            "4611686300233114013": "\\spn\\location\\pvp\\warzone\\quesh\\grapple_table.spn_p",
+            "4611686300233114016": "\\spn\\location\\pvp\\warzone\\quesh\\grapple_point.spn_p",
+            "4611686300246024011": "\\spn\\location\\pvp\\warzone\\quesh\\frogdog_spawnshield.spn_p",
+            "4611686300485074000": "\\spn\\location\\pvp\\warzone\\quesh\\grapple_table_one.spn_p",
+            "4611686300754084008": "\\spn\\location\\pvp\\warzone\\quesh\\acidtrap.spn_p",
+            "4611686300782804000": "\\spn\\location\\pvp\\warzone\\quesh\\npc_abilities.spn_c",
+            "4611686301024284000": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686301066534713": "\\spn\\location\\pvp\\warzone\\quesh\\control_arrow_1.spn_p",
+            "4611686301066534716": "\\spn\\location\\pvp\\warzone\\quesh\\control_arrow_2.spn_p",
+            "4611686301066534718": "\\spn\\location\\pvp\\warzone\\quesh\\control_arrow_3.spn_p",
+            "4611686301066534720": "\\spn\\location\\pvp\\warzone\\quesh\\control_arrow_4.spn_p",
+            "4611686301066534722": "\\spn\\location\\pvp\\warzone\\quesh\\control_arrow_5.spn_p",
+            "4611686301076794000": "\\spn\\location\\pvp\\warzone\\vendors\\consumables_queshball_2.spn_c",
+            "4611686301151584000": "\\spn\\location\\pvp\\warzone\\quesh\\directional_arrows_purple.spn_p",
+            "4611686301151584002": "\\spn\\location\\pvp\\warzone\\quesh\\directional_arrows_gold.spn_p",
+            "4611686301198524280": "\\spn\\location\\pvp\\warzone\\quests\\empire_pvp_bounty_board.spn_p",
+            "4611686301198524282": "\\spn\\location\\pvp\\warzone\\quests\\republic_pvp_bounty_board.spn_p",
+            "4611686349571277009": "\\spn\\location\\pvp\\warzone\\arena\\empire_respawn.spn_p",
+            "4611686349571277011": "\\server\\mpn\\location\\pvp\\warzone\\teamb_spawn.mpn",
+            "4611686349571277013": "\\server\\mpn\\location\\pvp\\warzone\\teama_spawn.mpn",
+            "4611686349571277015": "\\spn\\location\\pvp\\warzone\\arena\\republic_respawn.spn_p",
+            "4611686349571277029": "\\spn\\location\\pvp\\warzone\\quesh\\ballstand.spn_p",
+            "4611686349571277031": "\\spn\\location\\pvp\\warzone\\quesh\\gm.spn_p",
+            "4611686350019617007": "\\spn\\location\\pvp\\warzone\\powerups\\newheal.spn_p",
+            "4611686350019617015": "\\spn\\location\\pvp\\warzone\\powerups\\runspeed.spn_p",
+            "4611686350019617027": "\\spn\\location\\pvp\\warzone\\powerups\\newoffense.spn_p",
+            "4611686350137757002": "\\spn\\location\\pvp\\warzone\\quesh\\grapple_table_four.spn_p",
+            "4611686350137757006": "\\spn\\location\\pvp\\warzone\\quesh\\grapple_table_two.spn_p",
+            "4611686350138957005": "\\spn\\location\\pvp\\warzone\\quesh\\rotworm_spawnshield.spn_p",
+            "4611686350432817003": "\\spn\\location\\pvp\\warzone\\quesh\\announcer_v2.spn_c",
+            "4611686350899467000": "\\spn\\location\\pvp\\warzone\\arena\\barondeathmark.spn_c",
+            "4611686350899467002": "\\spn\\location\\pvp\\warzone\\arena\\giraddathehutt.spn_c",
+            "4611686350929847061": "\\spn\\location\\pvp\\warzone\\quesh\\directional_arrows.spn_p",
+            "4611686350984767002": "\\spn\\location\\pvp\\warzone\\vendors\\consumables_queshball_1.spn_c",
+            "4611686351011477000": "\\spn\\location\\pvp\\warzone\\quesh\\invis_grapple_hook.spn_p",
+            "4611686351344597000": "\\spn\\location\\pvp\\warzone\\warzone_timer.spn_p",
+            "4611686351464267000": "\\spn\\location\\pvp\\warzone\\quests\\empire_pvp_turnin_box.spn_p",
+            "4611686351464267002": "\\spn\\location\\pvp\\warzone\\quests\\republic_pvp_turnin_box.spn_p"
+        },
+        "B62RoomIds": {
+            "_everywhere_": "0Uuyh8M",
+            "Default": "0kuyh8M",
+            "skyscene_main": "0zSUh8M"
+        },
+        "B62References": [],
+        "Base62Id": "xZrP5aD",
+        "Id": "4611686349514817006"
+    },
+    "ExplorationType": "EXPLORABLE"
+}

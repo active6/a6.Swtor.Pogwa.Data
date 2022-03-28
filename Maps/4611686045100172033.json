@@ -1,0 +1,251 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4d6"
+    },
+    "DisplayNameId": 137438956810,
+    "LocalizedName": {
+        "enMale": "Tavus's Ship",
+        "frMale": "Vaisseau de Tavus",
+        "frFemale": "Vaisseau de Tavus",
+        "deMale": "Tavus' Schiff",
+        "deFemale": "Tavus' Schiff"
+    },
+    "AreaId": 4611686045100172033,
+    "ZoneName": "trpshadowfist_chat",
+    "MapPages": [
+        {
+            "Id": 3338,
+            "Guid": 137438956810,
+            "SId": -5427837545898892511,
+            "MapNameB62Id": "8IChYe2",
+            "MapName": "map_trp_shadowfist_main",
+            "Name": "Tavus's Ship",
+            "LocalizedName": {
+                "enMale": "Tavus's Ship",
+                "frMale": "Vaisseau de Tavus",
+                "frFemale": "Vaisseau de Tavus",
+                "deMale": "Tavus' Schiff",
+                "deFemale": "Tavus' Schiff"
+            },
+            "ParentId": 0,
+            "MinX": 17.196152,
+            "MinY": 13.53816,
+            "MinZ": 7.7960424,
+            "MaxX": 45.873497,
+            "MaxY": 15.28504,
+            "MaxZ": 36.47339,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 1436.6165,
+            "MiniMapVolume": 1788.8047,
+            "MiniMapMinX": 15.534823,
+            "MiniMapMinZ": 6.134715,
+            "MiniMapMaxX": 47.534824,
+            "MiniMapMaxZ": 38.134716,
+            "ImagePath": "\/resources\/world\/areas\/4611686045100172033\/map_trp_shadowfist_main_r.dds",
+            "ExplorationId": 1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "EXPLORABLE"
+        }
+    ],
+    "MapNotes": {
+        "4611686058662731254": {
+            "PositionX": 41.1545,
+            "PositionY": 14.4232,
+            "PositionZ": 25.3839,
+            "Rotation": 0,
+            "MapTags": {
+                "map_trp_shadowfist_main": true
+            },
+            "ParentMapTag": "map_trp_shadowfist_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.instance_shadowfist",
+            "MPNB62Id": "3OXL8jB",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686058758931298": {
+            "PositionX": 23.4057,
+            "PositionY": 14.0266,
+            "PositionZ": 19.634,
+            "Rotation": 0,
+            "MapTags": {
+                "map_trp_shadowfist_main": true
+            },
+            "ParentMapTag": "map_trp_shadowfist_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.shadow_fists",
+            "MPNB62Id": "J6IDtB0",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686080937883592": {
+            "PositionX": 41.0941,
+            "PositionY": 14.4037,
+            "PositionZ": 22.252,
+            "Rotation": 0,
+            "MapTags": {
+                "map_trp_shadowfist_main": true
+            },
+            "ParentMapTag": "map_trp_shadowfist_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.open_airlock",
+            "MPNB62Id": "QiDH7G5",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686093932569993": {
+            "PositionX": 41.3318,
+            "PositionY": 14.4137,
+            "PositionZ": 23.5202,
+            "Rotation": 0,
+            "MapTags": {
+                "map_trp_shadowfist_main": true
+            },
+            "ParentMapTag": "map_trp_shadowfist_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.txt.trp.shadow_fist.txt_airlock",
+            "MPNB62Id": "FM4i289",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686238880492313": {
+            "PositionX": 41.1028,
+            "PositionY": 14.4203,
+            "PositionZ": 27.6519,
+            "Rotation": 179.367,
+            "MapTags": {
+                "map_trp_shadowfist_main": true
+            },
+            "ParentMapTag": "map_trp_shadowfist_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.links.shared.to_ship",
+            "MPNB62Id": "RYsMsTD",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686247248010002": {
+            "PositionX": 28.2415,
+            "PositionY": 14.0154,
+            "PositionZ": 22.0649,
+            "Rotation": 0,
+            "MapTags": {
+                "map_trp_shadowfist_main": true
+            },
+            "ParentMapTag": "map_trp_shadowfist_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.racing_to_destruction",
+            "MPNB62Id": "iNmnRyC",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "Id": "4611686045100172033",
+    "Base62Id": "0MFIDG6",
+    "Name": "Tavus's Ship",
+    "B62References": [],
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "2957440573",
+    "removed_in": "",
+    "AreaDat": {
+        "AreaId": "4611686045100172033",
+        "AreaGuid": "4611686045100172035",
+        "AssetDefs": {
+            "4611686048407370020": "\\spn\\location\\open_worlds\\generic\\neutral\\dynamic_neu_spaceport_bulkhead_basic_locked.spn_p",
+            "4611686048407370039": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\dynamic_airlock_panel.spn_p",
+            "4611686048407370041": "\\spn\\location\\open_worlds\\generic\\neutral\\dynamic_neu_spaceport_bulkhead_basic_open.spn_p",
+            "4611686048407770100": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\stealth_field.spn_p",
+            "4611686048407770102": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\stealth_field_generator.spn_p",
+            "4611686048434970120": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\dynamic_force_field.spn_p",
+            "4611686048434970122": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\force_field_controller.spn_p",
+            "4611686048434970124": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\automated_defense_system.spn_p",
+            "4611686052342271034": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\freight_droid.spn_c",
+            "4611686052342271039": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686052342271088": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\suicide_drone_factory.spn_crf",
+            "4611686052505431245": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\security_droid_control_unit.spn_p",
+            "4611686052505431289": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\bulkhead_door_controller.spn_p",
+            "4611686052505431325": "\\enc\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\stealth_generator_room_drone_p.enc",
+            "4611686052505431327": "\\a:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.stealth_generator_room_drone_p.spn_c",
+            "4611686052505431332": "\\b:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.stealth_generator_room_drone_p.spn_c",
+            "4611686058662731253": "\\server\\mpn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\instance_shadowfist.mpn",
+            "4611686058662731255": "\\spn\\location\\open_worlds\\generic\\neutral\\airlock_to_playership.spn_p",
+            "4611686058677131247": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\dynamic_steam_pipe.spn_p",
+            "4611686058697031228": "\\enc\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\p1_airlock_hall.enc",
+            "4611686058697031230": "\\a:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.p1_airlock_hall.spn_c",
+            "4611686058697031238": "\\d:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.p1_airlock_hall.spn_c",
+            "4611686058758931297": "\\server\\mpn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\shadow_fists.mpn",
+            "4611686060975031208": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\dynamic_explosive_crate.spn_p",
+            "4611686060975031243": "\\enc\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\p3_b_shadow_fist_1.enc",
+            "4611686060975031245": "\\b:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.p3_b_shadow_fist_1.spn_c",
+            "4611686060975031248": "\\a:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.p3_b_shadow_fist_1.spn_c",
+            "4611686061294531377": "\\enc\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\p3_b_shadow_fist_2.enc",
+            "4611686061294531379": "\\a:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.p3_b_shadow_fist_2.spn_c",
+            "4611686061294531387": "\\b:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.p3_b_shadow_fist_2.spn_c",
+            "4611686061294531394": "\\enc\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\p3_b_shadow_fist_3.enc",
+            "4611686061294531396": "\\a:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.p3_b_shadow_fist_3.spn_c",
+            "4611686063463831199": "\\f:enc.location.open_worlds.class.trooper.chapter_1.the_shadow_fist.p1_airlock_hall.spn_c",
+            "4611686064316831231": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\dynamic_airlock_alarm.spn_p",
+            "4611686071490247391": "\\spn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\dynamic_tripwire_fullsegment.spn_p",
+            "4611686080937883591": "\\server\\mpn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\open_airlock.mpn",
+            "4611686082800424791": "\\spn\\location\\open_worlds\\medcenter\\chapter_1\\trooper\\med_open_worlds_ch1_trooper_the_shadow_fist_hangar_bay.spn_c",
+            "4611686093932569992": "\\server\\mpn\\location\\open_worlds\\ambient\\txt\\trp\\shadow_fist\\txt_airlock.mpn",
+            "4611686225982250000": "\\spn\\location\\open_worlds\\medcenter\\neutral\\medcenter_droid_neutral_15.spn_c",
+            "4611686238880492312": "\\server\\mpn\\location\\open_worlds\\ambient\\links\\shared\\to_ship.mpn",
+            "4611686247248010001": "\\server\\mpn\\location\\open_worlds\\class\\trooper\\chapter_1\\the_shadow_fist\\racing_to_destruction.mpn"
+        },
+        "B62RoomIds": {
+            "_everywhere_": "0G5ZqZ5",
+            "Default": "0W5ZqZ5",
+            "airlock_entrance_01": "0m5ZqZ5",
+            "airlock_hall_01": "105ZqZ5",
+            "hallway_01": "1G5ZqZ5",
+            "hallway_02": "1W5ZqZ5",
+            "cargo_room_01": "1m5ZqZ5",
+            "skyscene": "205ZqZ5"
+        },
+        "B62References": [],
+        "Base62Id": "0MFIDG6",
+        "Id": "4611686045100172033"
+    },
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "3.3.2",
+        "6.3.0a"
+    ],
+    "ExplorationType": "HIDDEN"
+}

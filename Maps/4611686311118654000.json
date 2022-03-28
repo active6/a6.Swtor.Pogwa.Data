@@ -1,0 +1,172 @@
+{
+    "_id": {
+        "$oid": "60884d86021e0000290014cb"
+    },
+    "DisplayNameId": 137438989504,
+    "LocalizedName": {
+        "enMale": "Imperial Fleet",
+        "frMale": "Flotte Imp\u00e9riale",
+        "frFemale": "Flotte Imp\u00e9riale",
+        "deMale": "Imperiale Flotte",
+        "deFemale": "Imperiale Flotte"
+    },
+    "AreaId": 4611686311118654000,
+    "ZoneName": "imperial_fleet_chat",
+    "MapPages": [
+        {
+            "Id": 41234,
+            "Guid": 137438994706,
+            "SId": -2982590970892065392,
+            "MapNameB62Id": "aEMmVL0",
+            "MapName": "penthouse",
+            "Name": "Vaiken Spacedock Penthouse",
+            "LocalizedName": {
+                "enMale": "Vaiken Spacedock Penthouse",
+                "frMale": "Appartement-terrasse du spatiodock Vaiken",
+                "frFemale": "Appartement-terrasse du spatiodock Vaiken",
+                "deMale": "Vaiken-Raumdock-Penthouse",
+                "deFemale": "Vaiken-Raumdock-Penthouse"
+            },
+            "ParentId": 2085850714855905034,
+            "MinX": 458.1808,
+            "MinY": 76.22127,
+            "MinZ": 451.12177,
+            "MaxX": 475.46606,
+            "MaxY": 77.41038,
+            "MaxZ": 468.4071,
+            "IsHeroic": false,
+            "MountAllowed": true,
+            "HasImage": true,
+            "Volume": 355.2845,
+            "MiniMapVolume": 608.8242,
+            "MiniMapMinX": 450.82343,
+            "MiniMapMinZ": 451.76443,
+            "MiniMapMaxX": 482.82343,
+            "MiniMapMaxZ": 467.76443,
+            "ImagePath": "\/resources\/world\/areas\/4611686311118654000\/penthouse_r.dds",
+            "ExplorationId": -1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 2,
+            "ExplorationType": "0x00"
+        },
+        {
+            "Id": 41233,
+            "Guid": 137438994705,
+            "SId": 2085850714855905034,
+            "MapNameB62Id": "2XTxWIC",
+            "MapName": "world_map",
+            "Name": "Vaiken Spacedock",
+            "LocalizedName": {
+                "enMale": "Vaiken Spacedock",
+                "frMale": "Spatiodock Vaiken",
+                "frFemale": "Spatiodock Vaiken",
+                "deMale": "Vaiken-Raumdock",
+                "deFemale": "Vaiken-Raumdock"
+            },
+            "ParentId": 0,
+            "MinX": 201.04587,
+            "MinY": 66.12042,
+            "MinZ": 203.44849,
+            "MaxX": 736.0359,
+            "MaxY": 800.9754,
+            "MaxZ": 738.43854,
+            "IsHeroic": false,
+            "MountAllowed": true,
+            "HasImage": true,
+            "Volume": 210326020,
+            "MiniMapVolume": 191885330,
+            "MiniMapMinX": 228.5409,
+            "MiniMapMinZ": 198.94351,
+            "MiniMapMaxX": 708.5409,
+            "MiniMapMaxZ": 742.9435,
+            "ImagePath": "\/resources\/world\/areas\/4611686311118654000\/world_map_r.dds",
+            "ExplorationId": 1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 0,
+            "MiniMapRowCount": 0,
+            "ExplorationType": "EXPLORABLE"
+        }
+    ],
+    "MapNotes": {
+        "4611686312857394003": {
+            "PositionX": 475.1,
+            "PositionY": 76.3,
+            "PositionZ": 459.9191,
+            "Rotation": -90,
+            "MapTags": {
+                "penthouse": true,
+                "world_map": true
+            },
+            "ParentMapTag": "map_gsh_imp_fleet",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": ".engine.mapnoteinstance",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "AreaDat": {
+        "AreaId": "4611686311118654000",
+        "AreaGuid": "4611686311118654010",
+        "AssetDefs": {
+            "4611686311723624001": "\\spn\\stronghold\\imp_fleet\\door\\door_southroom.spn_p",
+            "4611686312857394001": "\\spn\\housing\\stronghold\\imp_fleet\\elevator_exit.spn_p",
+            "4611686312893244000": "\\spn\\stronghold\\imp_fleet\\cinematic\\security_camera.spn_p",
+            "4611686312930004001": "\\spn\\stronghold\\imp_fleet\\door\\hangar_door.spn_p",
+            "4611686312940154004": "\\spn\\stronghold\\imp_fleet\\door\\living_quarters_door.spn_p",
+            "4611686312940154008": "\\spn\\stronghold\\imp_fleet\\door\\fleet_overlook_door.spn_p",
+            "4611686312988494000": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686313044604000": "\\spn\\housing\\stronghold\\imp_fleet\\door\\door_exit.spn_p",
+            "4611686313044604003": "\\spn\\stronghold\\imp_fleet\\door\\door_exit.spn_p",
+            "4611686313053934002": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\jukeboxes\\cantina_guitarist_02_holo.spn_c",
+            "4611686313053934004": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\jukeboxes\\cantina_guitarist_01_holo.spn_c",
+            "4611686313053934006": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\jukeboxes\\cantina_clarinetist_01_holo.spn_c",
+            "4611686313053934008": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\jukeboxes\\cantina_clarinetist_02_holo.spn_c",
+            "4611686313053934029": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\flavor\\bartender.spn_c",
+            "4611690220008260000": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\jukeboxes\\holo_dancer.spn_c",
+            "4611690220008260005": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\jukeboxes\\cantina_clarinetist_01.spn_c",
+            "4611690220008260011": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\jukeboxes\\cantina_clarinetist_02.spn_c",
+            "4611690220008260015": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\jukeboxes\\cantina_guitarist_01.spn_c",
+            "4611690220008260020": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\jukeboxes\\cantina_guitarist_02.spn_c",
+            "4611690220008260024": "\\spn\\location\\flashpoint\\imperial\\lobby\\fleet\\flavor\\vip_bouncer.spn_c"
+        },
+        "B62RoomIds": {
+            "space": "0J1AmY5",
+            "station_center": "0Z1AmY5",
+            "Default": "0p1AmY5",
+            "skyscene_m01": "131AmY5",
+            "_everywhere_": "1J1AmY5",
+            "stronghold_interior_01": "1Z1AmY5",
+            "stronghold_interior_02": "1p1AmY5",
+            "stronghold_interior_03": "231AmY5",
+            "stronghold_interior_04": "2J1AmY5"
+        },
+        "B62References": [],
+        "Base62Id": "C4h29K4",
+        "Id": "4611686311118654000"
+    },
+    "Id": "4611686311118654000",
+    "Base62Id": "C4h29K4",
+    "Name": "Imperial Fleet",
+    "first_seen": "6.3.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "1816089035",
+    "removed_in": "",
+    "ExplorationType": "EXPLORABLE",
+    "changed_fields": [
+        "ExplorationType",
+        "AreaDat",
+        "B62References",
+        "hash"
+    ],
+    "previous_versions": [
+        "6.3.0",
+        "6.3.0a"
+    ],
+    "B62References": []
+}

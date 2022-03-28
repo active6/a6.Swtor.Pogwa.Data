@@ -1,0 +1,34 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4b8"
+    },
+    "DisplayNameId": 137438956784,
+    "LocalizedName": {
+        "enMale": "Corellia",
+        "frMale": "Corellia",
+        "frFemale": "Corellia",
+        "deMale": "Corellia",
+        "deFemale": "Corellia"
+    },
+    "AreaId": 4611686033020470188,
+    "ZoneName": "core_chat",
+    "Id": "4611686033020470188",
+    "Base62Id": "hCFGPG3",
+    "Name": "Corellia",
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "973701659",
+    "removed_in": "",
+    "ExplorationType": "EXPLORABLE",
+    "changed_fields": [
+        "ExplorationType",
+        "B62References",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "6.3.0a"
+    ],
+    "B62References": []
+}

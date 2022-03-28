@@ -1,0 +1,180 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4ea"
+    },
+    "DisplayNameId": 137438957332,
+    "LocalizedName": {
+        "enMale": "Waypoint Station Three",
+        "frMale": "Station du point de cheminement\u00a03",
+        "frFemale": "Station du point de cheminement\u00a03",
+        "deMale": "Wegpunkt-Station 3",
+        "deFemale": "Wegpunkt-Station 3"
+    },
+    "AreaId": 4611686050082471254,
+    "ZoneName": "conroyalss_chat",
+    "MapPages": [
+        {
+            "Id": 3860,
+            "Guid": 137438957332,
+            "SId": -6286523664816638677,
+            "MapNameB62Id": "AtM4nW8",
+            "MapName": "map_con_royalss_world",
+            "Name": "Waypoint Station Three",
+            "LocalizedName": {
+                "enMale": "Waypoint Station Three",
+                "frMale": "Station du point de cheminement\u00a03",
+                "frFemale": "Station du point de cheminement\u00a03",
+                "deMale": "Wegpunkt-Station 3",
+                "deFemale": "Wegpunkt-Station 3"
+            },
+            "ParentId": 0,
+            "MinX": -6.400365,
+            "MinY": 10.809208,
+            "MinZ": -18.019165,
+            "MaxX": 22.027271,
+            "MaxY": 14.736105,
+            "MaxZ": 10.40847,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 3173.445,
+            "MiniMapVolume": 4021.1426,
+            "MiniMapMinX": -8.186547,
+            "MiniMapMinZ": -19.805347,
+            "MiniMapMaxX": 23.813454,
+            "MiniMapMaxZ": 12.194653,
+            "ImagePath": "\/resources\/world\/areas\/4611686050082471254\/map_con_royalss_world_r.dds",
+            "ExplorationId": 1,
+            "MapFowRadius": 0.5299766,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "EXPLORABLE"
+        }
+    ],
+    "MapNotes": {
+        "4611686080630817601": {
+            "PositionX": 17.3187,
+            "PositionY": 10.9137,
+            "PositionZ": -16.5166,
+            "Rotation": 90,
+            "MapTags": {
+                "map_con_royalss_world": true
+            },
+            "ParentMapTag": "map_con_royalss_world",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.jedi_wizard.chapter_2.to_serve_the_king.instance_royalss",
+            "MPNB62Id": "qGVw2P1",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686102861370022": {
+            "PositionX": 18.6216,
+            "PositionY": 10.9037,
+            "PositionZ": -16.2538,
+            "Rotation": 0,
+            "MapTags": {
+                "map_con_royalss_world": true
+            },
+            "ParentMapTag": "map_con_royalss_world",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.txt.cns.servetheking.txt_airlock",
+            "MPNB62Id": "MxxN4t2",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686238880742313": {
+            "PositionX": 19.9654,
+            "PositionY": 10.9204,
+            "PositionZ": -16.4787,
+            "Rotation": -90.1459,
+            "MapTags": {
+                "map_con_royalss_world": true
+            },
+            "ParentMapTag": "map_con_royalss_world",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.links.shared.to_ship",
+            "MPNB62Id": "RYsMsTD",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "Id": "4611686050082471254",
+    "Base62Id": "LZtANW7",
+    "Name": "Waypoint Station Three",
+    "B62References": [],
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "2659092557",
+    "removed_in": "",
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "1.3.5",
+        "3.3.2",
+        "6.3.0a"
+    ],
+    "AreaDat": {
+        "AreaId": "4611686050082471254",
+        "AreaGuid": "4611686050082471256",
+        "AssetDefs": {
+            "4611686051029571027": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\king_sethum.spn_c",
+            "4611686051396171021": "\\enc\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\enc_sith_attackers.enc",
+            "4611686067233231191": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\queen_nyscha.spn_c",
+            "4611686079296490391": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686080630817600": "\\server\\mpn\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\instance_royalss.mpn",
+            "4611686080630817602": "\\spn\\location\\open_worlds\\generic\\neutral\\airlock_to_playership.spn_p",
+            "4611686092343869997": "\\spn\\location\\open_worlds\\medcenter\\chapter_2\\consular\\med_open_worlds_ch2_consular_to_serve_the_king_hangar_bay.spn_c",
+            "4611686102861370021": "\\server\\mpn\\location\\open_worlds\\ambient\\txt\\cns\\servetheking\\txt_airlock.mpn",
+            "4611686141983330000": "\\enc\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\enc_lord_kyrus.enc",
+            "4611686141983330002": "\\a:enc.location.open_worlds.class.jedi_wizard.chapter_2.to_serve_the_king.enc_lord_kyrus.spn_c",
+            "4611686141983330004": "\\enc\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\enc_blaesus.enc",
+            "4611686141983330007": "\\a:enc.location.open_worlds.class.jedi_wizard.chapter_2.to_serve_the_king.enc_blaesus.spn_c",
+            "4611686170317160000": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\king_sethum_normal.spn_c",
+            "4611686170317160003": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\queen_nyscha_normal.spn_c",
+            "4611686170317160005": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\royal_bodyguard_normal.spn_c",
+            "4611686188416270000": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\dyn_cargo_door.spn_p",
+            "4611686188416270003": "\\d:enc.location.open_worlds.class.jedi_wizard.chapter_2.to_serve_the_king.enc_sith_attackers.spn_c",
+            "4611686237624780000": "\\spn\\generic\\restoration\\rest_kolto_tank.spn_p",
+            "4611686237624780048": "\\spn\\generic\\barrel\\barrel\\barrel_carbonize_sphere.spn_p",
+            "4611686238880742312": "\\server\\mpn\\location\\open_worlds\\ambient\\links\\shared\\to_ship.mpn",
+            "4611686244437590000": "\\spn\\location\\open_worlds\\medcenter\\republic\\medcenter_droid_republic_39.spn_c",
+            "4611686246843830000": "\\enc\\location\\open_worlds\\class\\jedi_wizard\\chapter_2\\to_serve_the_king\\enc_royal_bodyguards.enc",
+            "4611686246843830004": "\\b:enc.location.open_worlds.class.jedi_wizard.chapter_2.to_serve_the_king.enc_royal_bodyguards.spn_c"
+        },
+        "B62RoomIds": {
+            "_everywhere_": "0LOyvIU",
+            "Default": "0bOyvIU",
+            "airlock": "0rOyvIU",
+            "airlock_hallway": "15OyvIU",
+            "hallway_01": "1LOyvIU",
+            "hallway_01_stairs": "1bOyvIU",
+            "hallway_02": "1rOyvIU",
+            "side_room": "25OyvIU",
+            "main_room": "2LOyvIU",
+            "respawn_room01": "2bOyvIU",
+            "skyscene": "2rOyvIU"
+        },
+        "B62References": [],
+        "Base62Id": "LZtANW7",
+        "Id": "4611686050082471254"
+    },
+    "ExplorationType": "HIDDEN"
+}

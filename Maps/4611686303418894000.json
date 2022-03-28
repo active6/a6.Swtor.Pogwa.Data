@@ -1,0 +1,207 @@
+{
+    "_id": {
+        "$oid": "5fb4538933180000cb097d41"
+    },
+    "DisplayNameId": 833571547775745,
+    "LocalizedName": {
+        "enMale": "Rishi Cove Arena",
+        "frMale": "Ar\u00e8ne de la crique de Rishi",
+        "frFemale": "Ar\u00e8ne de la crique de Rishi",
+        "deMale": "Rishi-Bucht-Arena",
+        "deFemale": "Rishi-Bucht-Arena"
+    },
+    "AreaId": 4611686303418894000,
+    "ZoneName": "rishi_cove_arena_chat",
+    "MapPages": [
+        {
+            "Id": 40581,
+            "Guid": 137438994053,
+            "SId": -6036101872123848482,
+            "MapNameB62Id": "tjZyUQJ",
+            "MapName": "rishi_arena",
+            "Name": "Rishi Cove Arena",
+            "LocalizedName": {
+                "enMale": "Rishi Cove Arena",
+                "frMale": "Ar\u00e8ne de la crique de Rishi",
+                "frFemale": "Ar\u00e8ne de la crique de Rishi",
+                "deMale": "Rishi-Bucht-Arena",
+                "deFemale": "Rishi-Bucht-Arena"
+            },
+            "ParentId": -3256674482621919143,
+            "MinX": -9.858251,
+            "MinY": -1.573275,
+            "MinZ": -9.94725,
+            "MaxX": 9.84965,
+            "MaxY": 3.5972748,
+            "MaxZ": 9.760651,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 2008.2487,
+            "MiniMapVolume": 5294.643,
+            "MiniMapMinX": -16.0043,
+            "MiniMapMinZ": -16.0933,
+            "MiniMapMaxX": 15.995701,
+            "MiniMapMaxZ": 15.9067,
+            "ImagePath": "\/resources\/world\/areas\/4611686303418894000\/rishi_arena_r.dds",
+            "ExplorationId": 2,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "0x00"
+        },
+        {
+            "Id": 40594,
+            "Guid": 137438994066,
+            "SId": -3256674482621919143,
+            "MapNameB62Id": "MT0yXMG",
+            "MapName": "rishi_arena_world",
+            "Name": "Rishi Cove Arena",
+            "LocalizedName": {
+                "enMale": "Rishi Cove Arena",
+                "frMale": "Ar\u00e8ne de la crique de Rishi",
+                "frFemale": "Ar\u00e8ne de la crique de Rishi",
+                "deMale": "Rishi-Bucht-Arena",
+                "deFemale": "Rishi-Bucht-Arena"
+            },
+            "ParentId": 0,
+            "MinX": -8.308301,
+            "MinY": -1.57323,
+            "MinZ": -8.025601,
+            "MaxX": 8.094901,
+            "MaxY": 3.56063,
+            "MaxZ": 8.377601,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 1381.3423,
+            "MiniMapVolume": 5257.0728,
+            "MiniMapMinX": -16.1067,
+            "MiniMapMinZ": -15.824,
+            "MiniMapMaxX": 15.893299,
+            "MiniMapMaxZ": 16.175999,
+            "ImagePath": "\/resources\/world\/areas\/4611686303418894000\/rishi_arena_world_r.dds",
+            "ExplorationId": 1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "0x00"
+        }
+    ],
+    "MapNotes": {
+        "4611686303418894524": {
+            "PositionX": 0.544,
+            "PositionY": 1.014,
+            "PositionZ": -5.9336,
+            "Rotation": 180,
+            "MapTags": {
+                "rishi_arena": true,
+                "rishi_arena_world": true
+            },
+            "ParentMapTag": "tatooine_arena",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.pvp.warzone.teamb_spawn",
+            "MPNB62Id": "UVLT8S3",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686303418894525": {
+            "PositionX": -0.5497,
+            "PositionY": 1.0557,
+            "PositionZ": 5.8731,
+            "Rotation": 1.16529e-5,
+            "MapTags": {
+                "rishi_arena": true,
+                "rishi_arena_world": true
+            },
+            "ParentMapTag": "tatooine_arena",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.pvp.warzone.teama_spawn",
+            "MPNB62Id": "YUXrJp5",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686303418894538": {
+            "PositionX": 0,
+            "PositionY": -0.7294,
+            "PositionZ": 0,
+            "Rotation": 0,
+            "MapTags": {
+                "rishi_arena": true,
+                "rishi_arena_world": true
+            },
+            "ParentMapTag": "tatooine_arena",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.pvp.warzone.suddendeath_center",
+            "MPNB62Id": "8ztQUyl",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "AreaDat": {
+        "AreaId": "4611686303418894000",
+        "AreaGuid": "4611686303418894003",
+        "AssetDefs": {
+            "4611686303418894160": "\\spn\\location\\pvp\\arena\\invis_transmisson_flag.spn_p",
+            "4611686303418894180": "\\server\\mpn\\location\\pvp\\warzone\\teamb_spawn.mpn",
+            "4611686303418894181": "\\server\\mpn\\location\\pvp\\warzone\\teama_spawn.mpn",
+            "4611686303418894182": "\\spn\\location\\pvp\\warzone\\alderaan\\empire_respawn.spn_c",
+            "4611686303418894183": "\\spn\\location\\pvp\\warzone\\alderaan\\republic_respawn.spn_p",
+            "4611686303418894197": "\\spn\\location\\pvp\\warzone\\arena\\giraddathehutt.spn_c",
+            "4611686303418894198": "\\spn\\location\\pvp\\warzone\\arena\\barondeathmark.spn_c",
+            "4611686303418894199": "\\server\\mpn\\location\\pvp\\warzone\\suddendeath_center.mpn",
+            "4611686303418894200": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686303418894212": "\\spn\\location\\pvp\\warzone\\quests\\empire_pvp_bounty_board.spn_p",
+            "4611686303418894213": "\\spn\\location\\pvp\\warzone\\quests\\empire_pvp_turnin_box.spn_p",
+            "4611686303418894214": "\\spn\\location\\pvp\\warzone\\quests\\republic_pvp_bounty_board.spn_p",
+            "4611686303418894215": "\\spn\\location\\pvp\\warzone\\quests\\republic_pvp_turnin_box.spn_p",
+            "4611686305993724000": "\\spn\\location\\pvp\\arena\\rishi\\afk_controller.spn_p",
+            "4611686356083017006": "\\spn\\location\\pvp\\arena\\rishi\\gm.spn_p",
+            "4611686356083017008": "\\spn\\location\\pvp\\arena\\rishi\\spawn_shield.spn_p",
+            "4611686356083017011": "\\spn\\location\\pvp\\arena\\rishi\\spawn_shield_blue.spn_p"
+        },
+        "B62RoomIds": {
+            "pvp_arena_spacegarage": "0R16qLA",
+            "_everywhere_": "0h16qLA",
+            "Default": "0x16qLA",
+            "skyscene_tatooine": "1B16qLA"
+        },
+        "B62References": [],
+        "Base62Id": "i4RHMa2",
+        "Id": "4611686303418894000"
+    },
+    "Id": "4611686303418894000",
+    "Base62Id": "i4RHMa2",
+    "Name": "Rishi Cove Arena",
+    "B62References": [],
+    "first_seen": "4.3.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "2386491226",
+    "removed_in": "",
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "4.3.0",
+        "4.4.0",
+        "5.1.0",
+        "6.3.0a"
+    ],
+    "ExplorationType": "EXPLORABLE"
+}

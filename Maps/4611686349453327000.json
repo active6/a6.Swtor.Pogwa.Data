@@ -1,0 +1,133 @@
+{
+    "_id": {
+        "$oid": "5fb4241433180000cb087ad6"
+    },
+    "DisplayNameId": 137438993438,
+    "LocalizedName": {
+        "enMale": "Lair of the Eyeless",
+        "frMale": "Repaire de l'Amblyope",
+        "frFemale": "Repaire de l'Amblyope",
+        "deMale": "Versteck des Augenlosen",
+        "deFemale": "Versteck des Augenlosen"
+    },
+    "AreaId": 4611686349453327000,
+    "ZoneName": "rakghoul_lair_chat",
+    "MapPages": [
+        {
+            "Id": 39966,
+            "Guid": 137438993438,
+            "SId": 2085850714855905034,
+            "MapNameB62Id": "2XTxWIC",
+            "MapName": "world_map",
+            "Name": "Lair of the Eyeless",
+            "LocalizedName": {
+                "enMale": "Lair of the Eyeless",
+                "frMale": "Repaire de l'Amblyope",
+                "frFemale": "Repaire de l'Amblyope",
+                "deMale": "Versteck des Augenlosen",
+                "deFemale": "Versteck des Augenlosen"
+            },
+            "ParentId": 0,
+            "MinX": 21.261948,
+            "MinY": -2.0680501,
+            "MinZ": -24.46225,
+            "MaxX": 48.74865,
+            "MaxY": 2.64585,
+            "MaxZ": 3.0244522,
+            "IsHeroic": true,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 3561.44,
+            "MiniMapVolume": 4827.0337,
+            "MiniMapMinX": 19.005299,
+            "MiniMapMinZ": -26.718899,
+            "MiniMapMaxX": 51.0053,
+            "MiniMapMaxZ": 5.281101,
+            "ImagePath": "\/resources\/world\/areas\/4611686349453327000\/world_map_r.dds",
+            "ExplorationId": -1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "0x00"
+        }
+    ],
+    "MapNotes": {
+        "4611686304266344012": {
+            "PositionX": 36.7327,
+            "PositionY": -1.2894,
+            "PositionZ": -7.8043,
+            "Rotation": 90,
+            "MapTags": {
+                "world_map": true
+            },
+            "ParentMapTag": "world_map",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.alliance.alerts.companions.lokin.lokin_probe_site_bonus",
+            "MPNB62Id": "IS2pu27",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "Id": "4611686349453327000",
+    "Base62Id": "cFgk4aD",
+    "Name": "Lair of the Eyeless",
+    "first_seen": "2.5.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "2842139914",
+    "removed_in": "",
+    "AreaDat": {
+        "AreaId": "4611686349453327000",
+        "AreaGuid": "4611686349453327008",
+        "AssetDefs": {
+            "4611686304266344000": "\\enc\\alliance\\alderaan\\lokin\\enc_genetic_research_probe.enc",
+            "4611686304266344002": "\\a:enc.alliance.alderaan.lokin.enc_genetic_research_probe.spn_c",
+            "4611686304266344004": "\\spn\\alliance\\alderaan\\lokin\\probe_deploy_marker.spn_p",
+            "4611686304266344011": "\\server\\mpn\\alliance\\alerts\\companions\\lokin\\lokin_probe_site_bonus.mpn",
+            "4611686304266344013": "\\spn\\alliance\\alderaan\\lokin\\lokin.spn_c",
+            "4611686304266594000": "\\enc\\alliance\\alderaan\\lokin\\enc_probe_adds_00s.enc",
+            "4611686304266594002": "\\enc\\alliance\\alderaan\\lokin\\enc_probe_adds_20s.enc",
+            "4611686304266594004": "\\enc\\alliance\\alderaan\\lokin\\enc_probe_adds_40s.enc",
+            "4611686304266594006": "\\c:enc.alliance.alderaan.lokin.enc_probe_adds_00s.spn_c",
+            "4611686304266594012": "\\a:enc.alliance.alderaan.lokin.enc_probe_adds_20s.spn_c",
+            "4611686304266594015": "\\b:enc.alliance.alderaan.lokin.enc_probe_adds_40s.spn_c",
+            "4611686304266594017": "\\c:enc.alliance.alderaan.lokin.enc_probe_adds_40s.spn_c",
+            "4611686304678144000": "\\spn\\alliance\\alderaan\\lokin\\probe_deploy_marker_5_bonus.spn_p",
+            "4611686349945847002": "\\enc\\event\\rakghoul\\lair\\lair_boss_raid_01.enc",
+            "4611686349945847004": "\\a:enc.event.rakghoul.lair.lair_boss_raid_01.spn_c",
+            "4611686349945847007": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686350222267008": "\\enc\\event\\rakghoul\\lair\\lair_henchman_raid_01.enc",
+            "4611686350222267010": "\\a:enc.event.rakghoul.lair.lair_henchman_raid_01.spn_c",
+            "4611686350253867006": "\\spn\\location\\pvp\\tatooine\\auction_rep.spn_p",
+            "4611686350253867008": "\\spn\\location\\pvp\\tatooine\\auction_imp.spn_p",
+            "4611686350374877000": "\\enc\\event\\rakghoul\\lair\\lair_trash_raid_01.enc",
+            "4611686350374877003": "\\a:enc.event.rakghoul.lair.lair_trash_raid_01.spn_c"
+        },
+        "B62RoomIds": {
+            "_everywhere_": "0PZwhX2",
+            "Default": "0fZwhX2",
+            "rak_lair_boss": "0vZwhX2"
+        },
+        "B62References": [],
+        "Base62Id": "cFgk4aD",
+        "Id": "4611686349453327000"
+    },
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "2.5.0",
+        "3.3.2",
+        "4.0.0",
+        "6.3.0a"
+    ],
+    "B62References": [],
+    "ExplorationType": "EXPLORABLE"
+}

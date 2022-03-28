@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4da"
+    },
+    "DisplayNameId": 137438956733,
+    "LocalizedName": {
+        "enMale": "Ord Mantell Station",
+        "frMale": "Station d'Ord Mantell",
+        "frFemale": "Station d'Ord Mantell",
+        "deMale": "Ord Mantell-Station",
+        "deFemale": "Ord Mantell-Station"
+    },
+    "AreaId": 4611686045100172279,
+    "ZoneName": "kgtnewintel_chat",
+    "MapPages": [
+        {
+            "Id": 3261,
+            "Guid": 137438956733,
+            "SId": -2611987502812749413,
+            "MapNameB62Id": "co4MWJ4",
+            "MapName": "map_kgt_newintel",
+            "Name": "Ord Mantell Station",
+            "LocalizedName": {
+                "enMale": "Ord Mantell Station",
+                "frMale": "Station d'Ord Mantell",
+                "frFemale": "Station d'Ord Mantell",
+                "deMale": "Ord Mantell-Station",
+                "deFemale": "Ord Mantell-Station"
+            },
+            "ParentId": 0,
+            "MinX": -14.454611,
+            "MinY": -0.109384894,
+            "MinZ": -5.8575807,
+            "MaxX": 7.9553013,
+            "MaxY": 2.977785,
+            "MaxZ": 16.552332,
+            "IsHeroic": false,
+            "MountAllowed": true,
+            "HasImage": false,
+            "Volume": 1550.3896,
+            "MiniMapVolume": 3161.2622,
+            "MiniMapMinX": -19.249655,
+            "MiniMapMinZ": -10.652625,
+            "MiniMapMaxX": 12.750345,
+            "MiniMapMaxZ": 21.347374,
+            "ImagePath": "\/resources\/world\/areas\/4611686045100172279\/map_kgt_newintel_r.dds",
+            "ExplorationId": -1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 0,
+            "MiniMapRowCount": 0,
+            "ExplorationType": "0x00"
+        }
+    ],
+    "Id": "4611686045100172279",
+    "Base62Id": "yx7f6e6",
+    "Name": "Ord Mantell Station",
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "1543578695",
+    "removed_in": "",
+    "changed_fields": [
+        "ExplorationType",
+        "B62References",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "1.3.0",
+        "6.3.0a"
+    ],
+    "ExplorationType": "HIDDEN",
+    "B62References": []
+}

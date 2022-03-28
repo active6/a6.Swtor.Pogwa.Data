@@ -1,0 +1,220 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4c0"
+    },
+    "DisplayNameId": 137438957201,
+    "LocalizedName": {
+        "enMale": "Spirit of Vengeance",
+        "frMale": "Esprit de Vengeance",
+        "frFemale": "Esprit de Vengeance",
+        "deMale": "Spirit of Vengeance",
+        "deFemale": "Spirit of Vengeance"
+    },
+    "AreaId": 4611686035947170168,
+    "ZoneName": "bhmandalore_chat",
+    "MapPages": [
+        {
+            "Id": 3729,
+            "Guid": 137438957201,
+            "SId": -6585546247894942609,
+            "MapNameB62Id": "RxnGIf4",
+            "MapName": "map_bh_mandalore_world",
+            "Name": "Spirit of Vengeance",
+            "LocalizedName": {
+                "enMale": "Spirit of Vengeance",
+                "frMale": "Esprit de Vengeance",
+                "frFemale": "Esprit de Vengeance",
+                "deMale": "Spirit of Vengeance",
+                "deFemale": "Spirit of Vengeance"
+            },
+            "ParentId": 0,
+            "MinX": -29.997826,
+            "MinY": 9.087057,
+            "MinZ": -8.134285,
+            "MaxX": -6.2947893,
+            "MaxY": 12.375674,
+            "MaxZ": 15.56875,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 1847.6567,
+            "MiniMapVolume": 3367.544,
+            "MiniMapMinX": -34.14631,
+            "MiniMapMinZ": -12.282767,
+            "MiniMapMaxX": -2.146309,
+            "MiniMapMaxZ": 19.717232,
+            "ImagePath": "\/resources\/world\/areas\/4611686035947170168\/map_bh_mandalore_world_r.dds",
+            "ExplorationId": 1,
+            "MapFowRadius": 0.5665756,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "EXPLORABLE"
+        }
+    ],
+    "MapNotes": {
+        "4611686066802031192": {
+            "PositionX": -19.0778,
+            "PositionY": 9.4,
+            "PositionZ": 1.7064,
+            "Rotation": 0,
+            "MapTags": {
+                "map_bh_mandalore_world": true
+            },
+            "ParentMapTag": "map_bh_mandalore_world",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.bounty_hunter.chapter_2.heart_of_darkness.instance_bh_mandalore",
+            "MPNB62Id": "4wn9ZX1",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686079418303993": {
+            "PositionX": -8.7089,
+            "PositionY": 9.4037,
+            "PositionZ": 4.9695,
+            "Rotation": -4.26887e-6,
+            "MapTags": {
+                "map_bh_mandalore_world": true
+            },
+            "ParentMapTag": "map_bh_mandalore_world",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.bounty_hunter.chapter_2.heart_of_darkness.instance_bh_mandalore",
+            "MPNB62Id": "4wn9ZX1",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686103482870022": {
+            "PositionX": -8.559,
+            "PositionY": 9.4037,
+            "PositionZ": 6.5527,
+            "Rotation": 0,
+            "MapTags": {
+                "map_bh_mandalore_world": true
+            },
+            "ParentMapTag": "map_bh_mandalore_world",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.txt.bh.heartofdarkness.txt_airlock",
+            "MPNB62Id": "YpzafzY",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686170665110001": {
+            "PositionX": -18.4074,
+            "PositionY": 9.4,
+            "PositionZ": 1.2759,
+            "Rotation": 0,
+            "MapTags": {
+                "map_bh_mandalore_world": true
+            },
+            "ParentMapTag": "map_bh_mandalore_world",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.bounty_hunter.chapter_2.notorious.board_spirit",
+            "MPNB62Id": "hepXll3",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686238880662313": {
+            "PositionX": -8.6951,
+            "PositionY": 9.414,
+            "PositionZ": 7.714,
+            "Rotation": -179.734,
+            "MapTags": {
+                "map_bh_mandalore_world": true
+            },
+            "ParentMapTag": "map_bh_mandalore_world",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.links.shared.to_ship",
+            "MPNB62Id": "RYsMsTD",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "Id": "4611686035947170168",
+    "Base62Id": "UAb2504",
+    "Name": "Spirit of Vengeance",
+    "B62References": [],
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "1561555109",
+    "removed_in": "",
+    "AreaDat": {
+        "AreaId": "4611686035947170168",
+        "AreaGuid": "4611686035947170170",
+        "AssetDefs": {
+            "4611686050918171021": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\mandalorian_warrior.spn_c",
+            "4611686050918171027": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\mandalorian_warrior2.spn_c",
+            "4611686050918171029": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\mandalorian_warrior3.spn_c",
+            "4611686050918171031": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\multi\\dynamic_mandalorian_bulkhead_closed.spn_p",
+            "4611686050918171046": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686050918171053": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\mandalore.spn_c",
+            "4611686050918171055": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\jewla_nightbringer.spn_c",
+            "4611686050918171057": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\bloodworthy.spn_c",
+            "4611686050918171059": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\the_defenestrator.spn_c",
+            "4611686050918171061": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\mandalorian_warrior_mroom.spn_c",
+            "4611686050918171063": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\mandalorian_warrior2_mroom.spn_c",
+            "4611686050918171065": "\\spn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\mandalorian_warrior3_mroom.spn_c",
+            "4611686066776431193": "\\spn\\location\\ship\\bounty_hunter\\ship_door_exterior.spn_p",
+            "4611686066802031191": "\\server\\mpn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\instance_bh_mandalore.mpn",
+            "4611686092292669997": "\\spn\\location\\open_worlds\\medcenter\\chapter_2\\bounty_hunter\\med_open_worlds_ch2_bounty_hunter_the_heart_of_darkness_hangar_bay.spn_c",
+            "4611686103482870021": "\\server\\mpn\\location\\open_worlds\\ambient\\txt\\bh\\heartofdarkness\\txt_airlock.mpn",
+            "4611686124437085135": "\\enc\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\mandalorians_ambient.enc",
+            "4611686124437085137": "\\a:enc.location.open_worlds.class.bounty_hunter.chapter_2.heart_of_darkness.mandalorians_ambient.spn_c",
+            "4611686170665110000": "\\server\\mpn\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\notorious\\board_spirit.mpn",
+            "4611686224527160000": "\\enc\\location\\open_worlds\\class\\bounty_hunter\\chapter_2\\heart_of_darkness\\great_hunt_champions_huntmaster.enc",
+            "4611686224527160002": "\\a:enc.location.open_worlds.class.bounty_hunter.chapter_2.heart_of_darkness.great_hunt_champions_huntmaster.spn_c",
+            "4611686224527160004": "\\b:enc.location.open_worlds.class.bounty_hunter.chapter_2.heart_of_darkness.great_hunt_champions_huntmaster.spn_c",
+            "4611686224527160006": "\\c:enc.location.open_worlds.class.bounty_hunter.chapter_2.heart_of_darkness.great_hunt_champions_huntmaster.spn_c",
+            "4611686224527160008": "\\d:enc.location.open_worlds.class.bounty_hunter.chapter_2.heart_of_darkness.great_hunt_champions_huntmaster.spn_c",
+            "4611686238880662312": "\\server\\mpn\\location\\open_worlds\\ambient\\links\\shared\\to_ship.mpn",
+            "4611686244437520000": "\\spn\\location\\open_worlds\\medcenter\\neutral\\medcenter_droid_neutral_31.spn_c",
+            "4611686251193810003": "\\spn\\location\\open_worlds\\generic\\neutral\\airlock_to_playership.spn_p"
+        },
+        "B62RoomIds": {
+            "_everywhere_": "0NYfGX4",
+            "Default": "0dYfGX4",
+            "hangar": "0tYfGX4",
+            "hallway01": "17YfGX4",
+            "hallway02": "1NYfGX4",
+            "conf_room": "1dYfGX4",
+            "airlock_hallway": "1tYfGX4",
+            "airlock": "27YfGX4",
+            "respawn_room01": "2NYfGX4",
+            "skyscene": "2dYfGX4"
+        },
+        "B62References": [],
+        "Base62Id": "UAb2504",
+        "Id": "4611686035947170168"
+    },
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "3.3.2",
+        "6.3.0a"
+    ],
+    "ExplorationType": "HIDDEN"
+}

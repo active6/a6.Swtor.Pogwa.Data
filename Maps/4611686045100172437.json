@@ -1,0 +1,228 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4de"
+    },
+    "DisplayNameId": 137438956813,
+    "LocalizedName": {
+        "enMale": "The Carida",
+        "frMale": "Le Carida",
+        "frFemale": "Le Carida",
+        "deMale": "Die Carida",
+        "deFemale": "Die Carida"
+    },
+    "AreaId": 4611686045100172437,
+    "ZoneName": "condistresscall_chat",
+    "MapPages": [
+        {
+            "Id": 3341,
+            "Guid": 137438956813,
+            "SId": -584168092718572440,
+            "MapNameB62Id": "Q5naz1M",
+            "MapName": "map_con_distresscall_main",
+            "Name": "The Carida",
+            "LocalizedName": {
+                "enMale": "The Carida",
+                "frMale": "Le Carida",
+                "frFemale": "Le Carida",
+                "deMale": "Die Carida",
+                "deFemale": "Die Carida"
+            },
+            "ParentId": 0,
+            "MinX": -16.399208,
+            "MinY": -0.15634,
+            "MinZ": -6.485075,
+            "MaxX": 4.2560773,
+            "MaxY": 1.37994,
+            "MaxZ": 14.17021,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 655.43976,
+            "MiniMapVolume": 1573.1508,
+            "MiniMapMinX": -22.071564,
+            "MiniMapMinZ": -12.157433,
+            "MiniMapMaxX": 9.928436,
+            "MiniMapMaxZ": 19.842567,
+            "ImagePath": "\/resources\/world\/areas\/4611686045100172437\/map_con_distresscall_main_r.dds",
+            "ExplorationId": 1,
+            "MapFowRadius": 0.3803513,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "EXPLORABLE"
+        }
+    ],
+    "MapNotes": {
+        "4611686059724331192": {
+            "PositionX": 1.3808,
+            "PositionY": 0.0316,
+            "PositionZ": 0.002,
+            "Rotation": 90,
+            "MapTags": {
+                "map_con_distresscall_main": true
+            },
+            "ParentMapTag": "map_con_distresscall_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.instance_carida",
+            "MPNB62Id": "Hk4X4RB",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686094468869993": {
+            "PositionX": 1.9199,
+            "PositionY": 0.0316,
+            "PositionZ": 0.1364,
+            "Rotation": 0,
+            "MapTags": {
+                "map_con_distresscall_main": true
+            },
+            "ParentMapTag": "map_con_distresscall_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.txt.cns.distress.txt_airlock",
+            "MPNB62Id": "LyGJx0M",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686188460440001": {
+            "PositionX": -9,
+            "PositionY": -0,
+            "PositionZ": 8.3,
+            "Rotation": 0,
+            "MapTags": {
+                "map_con_distresscall_main": true
+            },
+            "ParentMapTag": "map_con_distresscall_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.bonus.chapter_1.hacked_resistance.droids",
+            "MPNB62Id": "nxxSnY4",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686238880202313": {
+            "PositionX": 2.7732,
+            "PositionY": 0.0384,
+            "PositionZ": 0.0019,
+            "Rotation": -90.3562,
+            "MapTags": {
+                "map_con_distresscall_main": true
+            },
+            "ParentMapTag": "map_con_distresscall_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.links.shared.to_ship",
+            "MPNB62Id": "RYsMsTD",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686250450800003": {
+            "PositionX": -5.7219,
+            "PositionY": 0,
+            "PositionZ": 5.5383,
+            "Rotation": 0,
+            "MapTags": {
+                "map_con_distresscall_main": true
+            },
+            "ParentMapTag": "map_con_distresscall_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.carida_stern",
+            "MPNB62Id": "YlEHb60",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "Id": "4611686045100172437",
+    "Base62Id": "bMJIDG6",
+    "Name": "The Carida",
+    "B62References": [],
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "2812941586",
+    "removed_in": "",
+    "AreaDat": {
+        "AreaId": "4611686045100172437",
+        "AreaGuid": "4611686045100172439",
+        "AssetDefs": {
+            "4611686047705570278": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686048318870020": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\ship_door_unlocked.spn_p",
+            "4611686048318870025": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\bela_whinn.spn_c",
+            "4611686048318870033": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\ship_door_open.spn_p",
+            "4611686052512531191": "\\enc\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\enc_rep_troopers.enc",
+            "4611686052512531193": "\\a:enc.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.enc_rep_troopers.spn_c",
+            "4611686052512531219": "\\enc\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\enc_droids_cargobay.enc",
+            "4611686052512531240": "\\b:enc.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.enc_droids_cargobay.spn_c",
+            "4611686052512531313": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\access_panel_cargo.spn_p",
+            "4611686052512531317": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\comm_device.spn_p",
+            "4611686059724331191": "\\server\\mpn\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\instance_carida.mpn",
+            "4611686061769131814": "\\e:enc.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.enc_droids_cargobay.spn_c",
+            "4611686061769131818": "\\d:enc.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.enc_droids_cargobay.spn_c",
+            "4611686061769131840": "\\h:enc.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.enc_droids_cargobay.spn_c",
+            "4611686064722531198": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\bela_whinn_run.spn_c",
+            "4611686064722531200": "\\enc\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\enc_rep_troopers_run.enc",
+            "4611686064722531202": "\\a:enc.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.enc_rep_troopers_run.spn_c",
+            "4611686064722531209": "\\enc\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\enc_laranna_fain.enc",
+            "4611686064722531211": "\\a:enc.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.enc_laranna_fain.spn_c",
+            "4611686081810203191": "\\spn\\location\\open_worlds\\medcenter\\chapter_1\\jedi_consular\\med_open_worlds_ch1_jedi_consular_distress_call_hangar_bay.spn_c",
+            "4611686094468869991": "\\server\\mpn\\location\\open_worlds\\ambient\\txt\\cns\\distress\\txt_airlock.mpn",
+            "4611686102308970021": "\\spn\\location\\open_worlds\\generic\\rep_airlock_to_playership.spn_p",
+            "4611686118585825041": "\\spn\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\bela_whinn_type.spn_c",
+            "4611686124493535041": "\\spn\\generic\\destruction\\dest_electric.spn_p",
+            "4611686170406850011": "\\k:enc.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.enc_droids_cargobay.spn_c",
+            "4611686170406850017": "\\o:enc.location.open_worlds.class.jedi_wizard.chapter_1.distress_call.enc_droids_cargobay.spn_c",
+            "4611686188460440000": "\\server\\mpn\\location\\open_worlds\\bonus\\chapter_1\\hacked_resistance\\droids.mpn",
+            "4611686238880202312": "\\server\\mpn\\location\\open_worlds\\ambient\\links\\shared\\to_ship.mpn",
+            "4611686244431500000": "\\spn\\location\\open_worlds\\medcenter\\republic\\medcenter_droid_republic_23.spn_c",
+            "4611686250450800002": "\\server\\mpn\\location\\open_worlds\\class\\jedi_wizard\\chapter_1\\distress_call\\carida_stern.mpn"
+        },
+        "B62RoomIds": {
+            "_everywhere_": "0PLaqZ5",
+            "Default": "0fLaqZ5",
+            "airlock_01": "0vLaqZ5",
+            "hallway_01": "19LaqZ5",
+            "space_01": "1PLaqZ5",
+            "generator_room": "1fLaqZ5",
+            "hallway_02": "1vLaqZ5",
+            "hallway_03": "29LaqZ5",
+            "hallway_04": "2PLaqZ5",
+            "hallway_05": "2fLaqZ5",
+            "hallway_06": "2vLaqZ5",
+            "hallway_07": "39LaqZ5",
+            "bridge_01": "3PLaqZ5",
+            "airlock_hallway": "3fLaqZ5",
+            "skyscene": "3vLaqZ5"
+        },
+        "B62References": [],
+        "Base62Id": "bMJIDG6",
+        "Id": "4611686045100172437"
+    },
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "3.3.2",
+        "6.3.0a"
+    ],
+    "ExplorationType": "HIDDEN"
+}

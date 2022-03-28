@@ -1,0 +1,160 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4dc"
+    },
+    "DisplayNameId": 137438956811,
+    "LocalizedName": {
+        "enMale": "Abandoned Mining Facility",
+        "frMale": "Mine abandonn\u00e9e",
+        "frFemale": "Mine abandonn\u00e9e",
+        "deMale": "Verlassene Minenstation",
+        "deFemale": "Verlassene Minenstation"
+    },
+    "AreaId": 4611686045100172332,
+    "ZoneName": "kgtdefector_chat",
+    "MapPages": [
+        {
+            "Id": 3339,
+            "Guid": 137438956811,
+            "SId": 5040958866888604891,
+            "MapNameB62Id": "spn0d61",
+            "MapName": "map_kgt_defector_main",
+            "Name": "Abandoned Mining Facility",
+            "LocalizedName": {
+                "enMale": "Abandoned Mining Facility",
+                "frMale": "Mine abandonn\u00e9e",
+                "frFemale": "Mine abandonn\u00e9e",
+                "deMale": "Verlassene Minenstation",
+                "deFemale": "Verlassene Minenstation"
+            },
+            "ParentId": 0,
+            "MinX": -17.594736,
+            "MinY": -0.28385502,
+            "MinZ": 0.5339813,
+            "MaxX": 4.8829017,
+            "MaxY": 2.192455,
+            "MaxZ": 23.01162,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 1251.1414,
+            "MiniMapVolume": 2535.7415,
+            "MiniMapMinX": -22.355917,
+            "MiniMapMinZ": -4.2272005,
+            "MiniMapMaxX": 9.644083,
+            "MiniMapMaxZ": 27.7728,
+            "ImagePath": "\/resources\/world\/areas\/4611686045100172332\/map_kgt_defector_main_r.dds",
+            "ExplorationId": 1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 1,
+            "MiniMapRowCount": 1,
+            "ExplorationType": "EXPLORABLE"
+        }
+    ],
+    "MapNotes": {
+        "4611686057511531198": {
+            "PositionX": -15.988,
+            "PositionY": 0.0037,
+            "PositionZ": 10.3229,
+            "Rotation": 1.56097e-5,
+            "MapTags": {
+                "map_kgt_defector_main": true
+            },
+            "ParentMapTag": "map_kgt_defector_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.jedi_knight.chapter_1.the_defector.instance_asteroid_facility",
+            "MPNB62Id": "CnWRZv1",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686142076420004": {
+            "PositionX": -1.1105,
+            "PositionY": 0,
+            "PositionZ": 11.3055,
+            "Rotation": 0,
+            "MapTags": {
+                "map_kgt_defector_main": true
+            },
+            "ParentMapTag": "map_kgt_defector_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.jedi_knight.chapter_1.the_defector.explore_facility",
+            "MPNB62Id": "RkR1R50",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686238880262313": {
+            "PositionX": -16.0096,
+            "PositionY": 0.0202,
+            "PositionZ": 12.7369,
+            "Rotation": -179.739,
+            "MapTags": {
+                "map_kgt_defector_main": true
+            },
+            "ParentMapTag": "map_kgt_defector_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.links.shared.to_ship",
+            "MPNB62Id": "RYsMsTD",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "Id": "4611686045100172332",
+    "Base62Id": "B6JIDG6",
+    "Name": "Abandoned Mining Facility",
+    "B62References": [],
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "2106613914",
+    "removed_in": "",
+    "AreaDat": {
+        "AreaId": "4611686045100172332",
+        "AreaGuid": "4611686045100172334",
+        "AssetDefs": {
+            "4611686047728770020": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686057511531197": "\\server\\mpn\\location\\open_worlds\\class\\jedi_knight\\chapter_1\\the_defector\\instance_asteroid_facility.mpn",
+            "4611686065633331191": "\\enc\\location\\open_worlds\\class\\jedi_knight\\chapter_1\\the_defector\\enc_valis.enc",
+            "4611686065633331193": "\\a:enc.location.open_worlds.class.jedi_knight.chapter_1.the_defector.enc_valis.spn_c",
+            "4611686081751892192": "\\spn\\location\\open_worlds\\medcenter\\chapter_1\\jedi_knight\\med_open_worlds_ch1_jedi_knight_the_defector_abandoned_asteroid_mining_facility.spn_c",
+            "4611686102327570021": "\\spn\\location\\open_worlds\\generic\\neutral\\airlock_to_playership.spn_p",
+            "4611686142076420003": "\\server\\mpn\\location\\open_worlds\\class\\jedi_knight\\chapter_1\\the_defector\\explore_facility.mpn",
+            "4611686225979290000": "\\spn\\location\\open_worlds\\medcenter\\neutral\\medcenter_droid_neutral_23.spn_c",
+            "4611686238880262312": "\\server\\mpn\\location\\open_worlds\\ambient\\links\\shared\\to_ship.mpn"
+        },
+        "B62RoomIds": {
+            "_everywhere_": "0InaqZ5",
+            "hangar_1": "0YnaqZ5",
+            "Asteroid": "0onaqZ5",
+            "entrance_hallway": "12naqZ5",
+            "skyscene": "1InaqZ5"
+        },
+        "B62References": [],
+        "Base62Id": "B6JIDG6",
+        "Id": "4611686045100172332"
+    },
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "3.3.2",
+        "4.5.0",
+        "6.3.0a"
+    ],
+    "ExplorationType": "HIDDEN"
+}

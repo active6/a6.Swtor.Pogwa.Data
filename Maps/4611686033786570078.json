@@ -1,0 +1,111 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4bf"
+    },
+    "DisplayNameId": 137438957093,
+    "LocalizedName": {
+        "enMale": "Vaiken Spacedock",
+        "frMale": "Spatiodock Vaiken",
+        "frFemale": "Spatiodock Vaiken",
+        "deMale": "Vaiken-Raumdock",
+        "deFemale": "Vaiken-Raumdock"
+    },
+    "AreaId": 4611686033786570078,
+    "ZoneName": "italobby_chat",
+    "MapPages": [
+        {
+            "Id": 3378,
+            "Guid": 137438956850,
+            "SId": -6735852309425360991,
+            "MapNameB62Id": "eUyQ7e3",
+            "MapName": "map_imp_transition_lobby",
+            "Name": "Vaiken Spacedock: Planetary Departure Hangars",
+            "LocalizedName": {
+                "enMale": "Vaiken Spacedock: Planetary Departure Hangars",
+                "frMale": "Spatiodock Vaiken Hangars des d\u00e9parts plan\u00e9taires",
+                "frFemale": "Spatiodock Vaiken Hangars des d\u00e9parts plan\u00e9taires",
+                "deMale": "Vaiken-Raumdock: Planeten-Abflughangars",
+                "deFemale": "Vaiken-Raumdock: Planeten-Abflughangars"
+            },
+            "ParentId": 6144390370639316609,
+            "MinX": -45.342102,
+            "MinY": -10.4837,
+            "MinZ": 50.179413,
+            "MaxX": 4.9631004,
+            "MaxY": 0.39830017,
+            "MaxZ": 100.48462,
+            "IsHeroic": false,
+            "MountAllowed": true,
+            "HasImage": false,
+            "Volume": 27538.137,
+            "MiniMapVolume": 44572.67,
+            "MiniMapMinX": -52.1895,
+            "MiniMapMinZ": 43.332016,
+            "MiniMapMaxX": 11.810501,
+            "MiniMapMaxZ": 107.332016,
+            "ImagePath": "\/resources\/world\/areas\/4611686033786570078\/map_imp_transition_lobby_r.dds",
+            "ExplorationId": 0,
+            "MapFowRadius": 0,
+            "MiniMapColumnCount": 0,
+            "MiniMapRowCount": 0,
+            "ExplorationType": "0x00"
+        },
+        {
+            "Id": 3621,
+            "Guid": 137438957093,
+            "SId": 6144390370639316609,
+            "MapNameB62Id": "WOP9stC",
+            "MapName": "map_imp_transition_station",
+            "Name": "Vaiken Spacedock",
+            "LocalizedName": {
+                "enMale": "Vaiken Spacedock",
+                "frMale": "Spatiodock Vaiken",
+                "frFemale": "Spatiodock Vaiken",
+                "deMale": "Vaiken-Raumdock",
+                "deFemale": "Vaiken-Raumdock"
+            },
+            "ParentId": 0,
+            "MinX": -322.52063,
+            "MinY": -101.6536,
+            "MinZ": -405.5835,
+            "MaxX": 315.7954,
+            "MaxY": 131.8164,
+            "MaxZ": 232.73253,
+            "IsHeroic": false,
+            "MountAllowed": true,
+            "HasImage": false,
+            "Volume": 95126740,
+            "MiniMapVolume": 76503450,
+            "MiniMapMinX": -259.3626,
+            "MiniMapMinZ": -406.42548,
+            "MiniMapMaxX": 252.63739,
+            "MiniMapMaxZ": 233.57452,
+            "ImagePath": "\/resources\/world\/areas\/4611686033786570078\/map_imp_transition_station_r.dds",
+            "ExplorationId": 0,
+            "MapFowRadius": 0,
+            "MiniMapColumnCount": 0,
+            "MiniMapRowCount": 0,
+            "ExplorationType": "0x00"
+        }
+    ],
+    "Id": "4611686033786570078",
+    "Base62Id": "NeLwam3",
+    "Name": "Vaiken Spacedock",
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "2584492437",
+    "removed_in": "",
+    "changed_fields": [
+        "ExplorationType",
+        "B62References",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "1.2.0",
+        "6.3.0a"
+    ],
+    "ExplorationType": "EXPLORABLE",
+    "B62References": []
+}

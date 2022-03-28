@@ -1,0 +1,232 @@
+{
+    "_id": {
+        "$oid": "5fb3e64733180000cb05d4d8"
+    },
+    "DisplayNameId": 137438956782,
+    "LocalizedName": {
+        "enMale": "Derelict Vessel",
+        "frMale": "Vaisseau \u00e0 l'abandon",
+        "frFemale": "Vaisseau \u00e0 l'abandon",
+        "deMale": "Verlassenes Schiff",
+        "deFemale": "Verlassenes Schiff"
+    },
+    "AreaId": 4611686045100172130,
+    "ZoneName": "smgabyss_chat",
+    "MapPages": [
+        {
+            "Id": 3310,
+            "Guid": 137438956782,
+            "SId": 7080022881884663084,
+            "MapNameB62Id": "B6rVh4C",
+            "MapName": "map_smg_abyss_main",
+            "Name": "Derelict Vessel",
+            "LocalizedName": {
+                "enMale": "Derelict Vessel",
+                "frMale": "Vaisseau \u00e0 l'abandon",
+                "frFemale": "Vaisseau \u00e0 l'abandon",
+                "deMale": "Verlassenes Schiff",
+                "deFemale": "Verlassenes Schiff"
+            },
+            "ParentId": 0,
+            "MinX": -18.249157,
+            "MinY": -0.18701005,
+            "MinZ": -15.860751,
+            "MaxX": 18.000996,
+            "MaxY": 2.66101,
+            "MaxZ": 20.3894,
+            "IsHeroic": false,
+            "MountAllowed": false,
+            "HasImage": true,
+            "Volume": 3742.508,
+            "MiniMapVolume": 11665.49,
+            "MiniMapMinX": -32.12408,
+            "MiniMapMinZ": -29.735674,
+            "MiniMapMaxX": 31.87592,
+            "MiniMapMaxZ": 34.264328,
+            "ImagePath": "\/resources\/world\/areas\/4611686045100172130\/map_smg_abyss_main_r.dds",
+            "ExplorationId": 1,
+            "MapFowRadius": 1,
+            "MiniMapColumnCount": 2,
+            "MiniMapRowCount": 2,
+            "ExplorationType": "EXPLORABLE"
+        }
+    ],
+    "MapNotes": {
+        "4611686058658431192": {
+            "PositionX": -16.1834,
+            "PositionY": 0.0037,
+            "PositionZ": 9.8989,
+            "Rotation": 1.56097e-5,
+            "MapTags": {
+                "map_smg_abyss_main": true
+            },
+            "ParentMapTag": "map_smg_abyss_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.instance_long_shadow",
+            "MPNB62Id": "ZP24hS6",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686080365102392": {
+            "PositionX": 11.3181,
+            "PositionY": 0.0281,
+            "PositionZ": -11.9804,
+            "Rotation": 0,
+            "MapTags": {
+                "map_smg_abyss_main": true
+            },
+            "ParentMapTag": "map_smg_abyss_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.mpn_drayens_reliquary",
+            "MPNB62Id": "y5AecID",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686094524069992": {
+            "PositionX": -2.0081,
+            "PositionY": 0,
+            "PositionZ": 7.6193,
+            "Rotation": 0,
+            "MapTags": {
+                "map_smg_abyss_main": true
+            },
+            "ParentMapTag": "map_smg_abyss_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.txt.smg.abyss.txt_hangar",
+            "MPNB62Id": "SWGsPI8",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611686238880352313": {
+            "PositionX": -16.2106,
+            "PositionY": 0.0204,
+            "PositionZ": 12.7603,
+            "Rotation": -179.907,
+            "MapTags": {
+                "map_smg_abyss_main": true
+            },
+            "ParentMapTag": "map_smg_abyss_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.ambient.links.shared.to_ship",
+            "MPNB62Id": "RYsMsTD",
+            "Id": "0",
+            "Base62Id": "0000000"
+        },
+        "4611687145177380001": {
+            "PositionX": 11.3367,
+            "PositionY": 0.0103,
+            "PositionZ": -1.4657,
+            "Rotation": 0,
+            "MapTags": {
+                "map_smg_abyss_main": true
+            },
+            "ParentMapTag": "map_smg_abyss_main",
+            "ShowGhosted": false,
+            "ShowOffmapArrow": false,
+            "ShowQuestBreadcrumbOnly": false,
+            "DoNotBreadcrumb": false,
+            "IgnoreFoW": false,
+            "TemplateFQN": "mpn.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.mpn_derelict_vessel",
+            "MPNB62Id": "rAimyfI",
+            "Id": "0",
+            "Base62Id": "0000000"
+        }
+    },
+    "Id": "4611686045100172130",
+    "Base62Id": "OcFIDG6",
+    "Name": "Derelict Vessel",
+    "B62References": [],
+    "first_seen": "1.0.0",
+    "last_seen": "6.3.2b",
+    "current_version": "6.3.2b",
+    "hash": "2552735413",
+    "removed_in": "",
+    "changed_fields": [
+        "B62References",
+        "ExplorationType",
+        "AreaDat",
+        "hash"
+    ],
+    "previous_versions": [
+        "1.0.0",
+        "1.2.0",
+        "3.3.2",
+        "6.3.0a"
+    ],
+    "AreaDat": {
+        "AreaId": "4611686045100172130",
+        "AreaGuid": "4611686045100172132",
+        "AssetDefs": {
+            "4611686047726070020": "\\spn\\test\\path\\seed_point.spn_c",
+            "4611686047797770033": "\\spn\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\reliquary.spn_p",
+            "4611686052300971042": "\\enc\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\enc_royal_droids.enc",
+            "4611686052300971047": "\\b:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686058658431191": "\\server\\mpn\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\instance_long_shadow.mpn",
+            "4611686059133631336": "\\spn\\location\\ship\\smuggler\\ship_door_exterior.spn_p",
+            "4611686059792731192": "\\spn\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\dyn_long_shadow_door_1.spn_p",
+            "4611686059792731194": "\\spn\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\dyn_long_shadow_door_2.spn_p",
+            "4611686059792731204": "\\spn\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\dyn_long_shadow_door_3.spn_p",
+            "4611686059799931191": "\\spn\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\dyn_reliquary_door.spn_p",
+            "4611686060924631193": "\\spn\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\airlock_door.spn_p",
+            "4611686062893731223": "\\enc\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\enc_royal_maintenance_droids.enc",
+            "4611686062893731225": "\\a:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_maintenance_droids.spn_c",
+            "4611686062893731255": "\\e:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686062893731264": "\\c:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686062893731266": "\\g:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686062893731272": "\\q:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686062893731278": "\\m:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686062893731281": "\\w:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686062893731289": "\\r:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686062893731349": "\\l:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686062893731426": "\\n:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686062893731555": "\\enc\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\enc_royal_droids_boss_inactive.enc",
+            "4611686062893731557": "\\x:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids_boss_inactive.spn_c",
+            "4611686064661531206": "\\enc\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\skavak.enc",
+            "4611686064661531208": "\\a:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.skavak.spn_c",
+            "4611686080365102391": "\\server\\mpn\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\mpn_drayens_reliquary.mpn",
+            "4611686082279429396": "\\spn\\location\\open_worlds\\medcenter\\chapter_1\\smuggler\\med_open_worlds_ch1_smuggler_the_endless_abyss_hangar_bay.spn_c",
+            "4611686094524069991": "\\server\\mpn\\location\\open_worlds\\ambient\\txt\\smg\\abyss\\txt_hangar.mpn",
+            "4611686102458570026": "\\w:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids_boss_inactive.spn_c",
+            "4611686103932970021": "\\enc\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\end_executioner_droid.enc",
+            "4611686103932970023": "\\a:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.end_executioner_droid.spn_c",
+            "4611686124371475041": "\\spn\\generic\\destruction\\dest_electric.spn_p",
+            "4611686124371475043": "\\spn\\generic\\destruction\\dest_carbonize.spn_p",
+            "4611686170403620006": "\\x:enc.location.open_worlds.class.smuggler.chapter_1.the_endless_abyss.enc_royal_droids.spn_c",
+            "4611686238880352312": "\\server\\mpn\\location\\open_worlds\\ambient\\links\\shared\\to_ship.mpn",
+            "4611686244436460000": "\\spn\\location\\open_worlds\\medcenter\\neutral\\medcenter_droid_neutral_31.spn_c",
+            "4611687145177380000": "\\server\\mpn\\location\\open_worlds\\class\\smuggler\\chapter_1\\the_endless_abyss\\mpn_derelict_vessel.mpn"
+        },
+        "B62RoomIds": {
+            "_everywhere_": "0M9ZqZ5",
+            "Default": "0c9ZqZ5",
+            "hangar_1": "0s9ZqZ5",
+            "entrance_hall": "169ZqZ5",
+            "hallway_1": "1M9ZqZ5",
+            "room_1": "1c9ZqZ5",
+            "hallway_2": "1s9ZqZ5",
+            "hallway_3": "269ZqZ5",
+            "room_2": "2M9ZqZ5",
+            "skyscene": "2c9ZqZ5"
+        },
+        "B62References": [],
+        "Base62Id": "OcFIDG6",
+        "Id": "4611686045100172130"
+    },
+    "ExplorationType": "HIDDEN"
+}
